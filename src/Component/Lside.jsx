@@ -1,11 +1,5 @@
 function Lside(){
     return (
-<<<<<<< HEAD
-        <div className="l-side"></div>
-    );
-}
-export default Aside;
-=======
         <div className="l-side">
             <ul>
                 <li>Home</li>
@@ -15,4 +9,3 @@ export default Aside;
     );
 }
 export default Lside;
->>>>>>> 2541cb2ca7eebb3f447a2716d32113b067ad2072
